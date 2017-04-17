@@ -1,0 +1,12 @@
+<svg height="142" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="142" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├─┬ co-mocha@1.2.0 </tspan>
+<tspan x="10" y="90">│ ├── co@4.6.0 </tspan>
+<tspan x="10" y="106">│ └── is-generator@1.0.3 </tspan>
+<tspan x="10" y="122">└── UNMET PEER DEPENDENCY mocha@&gt;=1.18 &lt;4</tspan>
+</text>
+</svg>
