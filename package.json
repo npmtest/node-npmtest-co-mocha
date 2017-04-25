@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [co-mocha (v1.2.0)](https://github.com/blakeembrey/co-mocha) [![npm package](https://img.shields.io/npm/v/npmtest-co-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-co-mocha)",
+    "description": "#### basic test coverage for  [co-mocha (v1.2.0)](https://github.com/blakeembrey/co-mocha)  [![npm package](https://img.shields.io/npm/v/npmtest-co-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-co-mocha)",
     "devDependencies": {
         "co-mocha": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

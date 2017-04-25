@@ -1,4 +1,7 @@
-# test coverage for  [co-mocha (v1.2.0)](https://github.com/blakeembrey/co-mocha)  [![npm package](https://img.shields.io/npm/v/npmtest-co-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-co-mocha)
+# npmtest-co-mocha
+
+#### basic test coverage for  [co-mocha (v1.2.0)](https://github.com/blakeembrey/co-mocha)  [![npm package](https://img.shields.io/npm/v/npmtest-co-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-co-mocha)
+
 #### Enable support for generators in Mocha tests
 
 [![NPM](https://nodei.co/npm/co-mocha.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/co-mocha)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-co-mocha/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-co-mocha/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-co-mocha/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-co-mocha/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-co-mocha/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-co-mocha/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-co-mocha/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-co-mocha/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-co-mocha/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-co-mocha/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-co-mocha/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-co-mocha/build/coverage.html/index.html)
 
@@ -108,7 +111,8 @@
             "co-mocha.js"
         ]
     },
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
